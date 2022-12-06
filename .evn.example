@@ -1,9 +1,0 @@
-MONGO_CONNECTION_STRING=mongodb+srv://borhan:borhan88@cluster0.wzcd4.mongodb.net/hostelInformationSystem?retryWrites=true&w=majority
-JWT_SECRET=abbda8ac9a103ce75f409840b9c61b748bf692aw
-PORT=5000
-NODEMAILER_EMAIL=z.borhan015@gmail.com
-NODEMAILER_PASS=wbnacfgkpbhrhere
-STORE_ID=nowho637ced6d42307
-STORE_PASSWORD=nowho637ced6d42307@ssl
-BACKEND_URL=http://localhost:5000
-FRONTEND_URL=http://localhost:3000
